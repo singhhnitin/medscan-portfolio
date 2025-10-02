@@ -1,0 +1,28 @@
+# Core dependencies for MedScan Portfolio
+numpy>=1.21.0
+opencv-python>=4.5.0
+pillow>=8.3.0
+matplotlib>=3.4.0
+scipy>=1.7.0
+
+# Medical imaging libraries
+pydicom>=2.3.0
+nibabel>=3.2.0
+SimpleITK>=2.1.0
+
+# Machine learning (if needed)
+scikit-learn>=1.0.0
+tensorflow>=2.8.0
+
+# Web framework (if creating web demo)
+flask>=2.0.0
+streamlit>=1.10.0
+
+# Development and testing
+pytest>=6.2.0
+black>=21.9.0
+flake8>=4.0.0
+
+# Documentation
+sphinx>=4.2.0
+mkdocs>=1.2.0
