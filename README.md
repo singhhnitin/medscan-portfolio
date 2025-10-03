@@ -134,7 +134,7 @@ This project is created for portfolio demonstration purposes. Please contact for
 
 ## 👨‍💻 Author
 
-**Your Name** - Medical Imaging Software Developer
+Nitin Singh - Medical Imaging Software Developer
 
 - Portfolio Project: Advanced Medical Imaging Platform
 - Specialization: Healthcare Technology & AI Applications
@@ -148,6 +148,6 @@ This project is created for portfolio demonstration purposes. Please contact for
 
 ---
 
-**📞 Contact**: For inquiries about this project or collaboration opportunities, please reach out through GitHub.
+**📞 9198332390 For inquiries about this project or collaboration opportunities, please reach out through GitHub.
 
 **🌟 Star this repository** if you find it helpful or interesting!
